@@ -44,7 +44,7 @@ AI_Chatbot_Project
 
 Clone the repository
 
-git clone https://github.com/yourusername/smart-ai-chatbot-python.git
+git clone https://github.com/rayyansendolay24/smart-ai-chatbot-python.git
 
 Navigate to the project directory
 
